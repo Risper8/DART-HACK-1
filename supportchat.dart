@@ -67,7 +67,9 @@ String getGrade(double average) {
   }
 }
 
-void chatWithStudent(String grade) {
+// support 
+ 
+   void chatWithStudent(String grade) {
   // excellent student
   if (grade == 'Excellent') {
     print("Congratulations on your excellent performance!");
