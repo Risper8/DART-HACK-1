@@ -59,7 +59,7 @@ bool playLevel(int level) {
 
     print('\nQuestion $i: What is $num1 ${getOperationSymbol(level)} $num2?');
     print('Enter your answer:');
-    int answer = int.parse(stdin.readLineSync()!);
+    double answer = double.parse(stdin.readLineSync()!);
 
 // checking if the answer provided by the user is correct or not
     if (answer == result) {
