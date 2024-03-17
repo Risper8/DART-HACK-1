@@ -27,7 +27,7 @@ Below are the tasks given for this dart challenge:
 
   If the marks are below 65, print "Average".
 
-To add an intriguing twist to the learning experience, I've crafted engaging programs like the Math Quiz Adventure and Student Support Chatbot.
+### To add an intriguing twist to the learning experience, I've crafted engaging programs like the Math Quiz Adventure and Student Support Chatbot.
 
 **Programs Included:**
 
@@ -56,3 +56,10 @@ Description: This program interacts with students following their grading result
 
 ## Contributor:
  Risper Ndirangu
+
+### Feel free to explore the code and have fun with the games!
+
+### Thank you for visiting my Dart Tasks repository. If you have any questions or feedback, feel free to reach out. 
+
+**Happy coding!**
+
