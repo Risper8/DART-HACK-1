@@ -27,7 +27,7 @@ Below are the tasks given for this dart challenge:
 
   If the marks are below 65, print "Average".
 
-### To add an intriguing twist to the learning experience, I've crafted engaging programs like the Math Quiz Adventure and Student Support Chatbot.
+### To add an intriguing twist to the learning experience, I've crafted engaging programs like the Math Quiz Adventure and Student Support program.
 
 **Programs Included:**
 
