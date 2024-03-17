@@ -57,9 +57,9 @@ Description: This program interacts with students following their grading result
 ## Contributor:
  Risper Ndirangu
 
-### Feel free to explore the code and have fun with the games!
+*Feel free to explore the code and have fun with the games!*
 
-### Thank you for visiting my Dart Tasks repository. If you have any questions or feedback, feel free to reach out. 
+*Thank you for visiting my Dart Tasks repository. If you have any questions or feedback, feel free to reach out.*
 
-**Happy coding!**
+*Happy coding!*
 
