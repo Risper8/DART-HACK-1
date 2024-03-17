@@ -43,8 +43,13 @@ Description: The grading system program evaluates students' scores based on CAT 
 4. *Maths Quiz Adventure:*
 This engaging game is tailored for kindergarten kids to practice and reinforce their understanding of fundamental mathematical operations. It offers a delightful journey through seven levels, including addition, subtraction, multiplication, division, square, square root, and power. As children progress through each level, they'll encounter interactive math questions designed to stimulate learning and foster confidence in their math skills.
 
+![Guessing Game Illustration](https://github.com/Risper8/PYTHON-HACKATHON/blob/main/guess.png)
+
+
 6. *Student Support program:*
 Description: This program interacts with students following their grading results, offering encouragement, advice, and support akin to a chatbot. It encourages students to reflect on their performance, shares study tips, and motivates to enhance their academic journey.
+
+![Guessing Game Illustration](https://github.com/Risper8/PYTHON-HACKATHON/blob/main/guess.png)
 
 ## **Usage:**
 
