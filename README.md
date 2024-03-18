@@ -4,7 +4,7 @@
 
 This repository contains a collection of Dart programs designed to provide educational value and interactive experiences for users. The programs cover various aspects, including user input handling, mathematical operations, grading systems, a math quiz adventure game, and a student support program.
 
-## Challenge 1 
+## Challenge 
 Below are the tasks given for this dart challenge:
 
 * Program 1: Display Personal Information
