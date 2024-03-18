@@ -49,7 +49,7 @@ This engaging game is tailored for kindergarten kids to practice and reinforce t
 
  *Illustration:* 
  
-6. *Student Support program:*
+5. *Student Support program:*
 Description: This program interacts with students following their grading results, offering encouragement, advice, and support akin to a chatbot. It encourages students to reflect on their performance, shares study tips, and motivates to enhance their academic journey.
 
 ![Guessing Game Illustration](https://github.com/Risper8/DART-HACK/blob/main/support.png)
